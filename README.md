@@ -1,8 +1,6 @@
 ### 😎 **Sobre mim**  
 Olá, sou Lucas, sou programador.
 
-
-
 <!--
 <p align="center">
   <a href="https://youtube.com/@MenteMaker?sub_confirmation=1">
@@ -17,12 +15,6 @@ Olá, sou Lucas, sou programador.
 ![YouTube Views](https://img.shields.io/youtube/channel/views/UCdHR_M4vqK1rtKo56RMQ9tQ?style=social)
 -->
 
-<!--
-### 🌐 **Minhas Redes Sociais**  
-Coloque aqui as informações de redes sociais:
--->
-
-### 🧑‍💻 **Minhas Habilidades e Tecnologias**  
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
 
