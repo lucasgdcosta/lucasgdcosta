@@ -1,5 +1,5 @@
 ### 😎 **Sobre mim**  
-Olá, sou (coloque aqui o seu nome), (Coloque aqui sua formação e profissão).
+Olá, sou Lucas, sou programador.
 
 
 
